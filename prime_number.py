@@ -17,3 +17,6 @@ class Solution:
             if n%i==0:
                 return False
         return True
+
+        #Time-O(srqt(n))
+        #Space-O(1)
