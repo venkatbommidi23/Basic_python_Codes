@@ -32,3 +32,7 @@ class Solution:
                 
         #Reversing the token and converting into string
         return "".join(token[::-1])
+
+        
+        #Time Complexity-O(n)
+        #Space Complexity-O(n)
