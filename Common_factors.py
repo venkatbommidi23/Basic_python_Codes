@@ -1,5 +1,5 @@
 https://leetcode.com/problems/number-of-common-factors/
-
+ 
 #For calculating common factors we need to get the gcd of 2numbers and then run a loop untill the sqrt of gcd because
 #we get factors in pairs
 
