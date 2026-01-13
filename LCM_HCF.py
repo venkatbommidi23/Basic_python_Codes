@@ -1,4 +1,4 @@
-#We can do using prime factorization but 
+ #We can do using prime factorization but 
 #Time -O(sqrt(a)+sqrt(b))--SLow for big numbers
 #Space-O(no of prime factors)
 
