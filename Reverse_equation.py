@@ -1,4 +1,4 @@
-#https://www.geeksforgeeks.org/problems/reversing-the-equation2205/1
+ #https://www.geeksforgeeks.org/problems/reversing-the-equation2205/1
 
 #input:
 # S = "20-3+5*2"
