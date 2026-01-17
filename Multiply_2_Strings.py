@@ -1,4 +1,4 @@
-#https://www.geeksforgeeks.org/problems/multiply-two-strings/1
+    #https://www.geeksforgeeks.org/problems/multiply-two-strings/1
 
 # Input: s1 = "0033", s2 = "2"
 # Output: "66"
